@@ -103,7 +103,24 @@
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
   </a>
 </p>
--->
+-->-
+
+<h2 align="left">Profile Views</h2>
+<img src="https://profile-counter.glitch.me/shamilbin/count.svg" />
+
+---
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <a href="https://github.com/shamilbin">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shamilbin&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamilbin&layout=compact&langs_count=8&theme=radical" />
+  </a>
+</p>
+
 
 
 
