@@ -107,13 +107,15 @@
 
 
 
- ### - What i do
+
+
+ ### <h1><b>What I Do</b></h1>
 
 
 <br />
 
 <p align="center">
-   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBldG9iOXJ0Nmc4cm4yMHJ3cXozbjd4cmNpdWxsbmlpN2I3NWRqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN6b2JhYmh2NTBpb3c4ZTZzd3F1Z3cyZ2VjMDBlNXgyM3F1N2pwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" />
 
 
 
