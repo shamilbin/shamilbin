@@ -118,7 +118,11 @@
   <a href="https://github.com/shamilbin">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shamilbin&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamilbin&layout=compact&langs_count=8&theme=radical" />
+     
   </a>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamilbin&" alt="shamilbin" /></p>
+  
+   
 </p>
 
 
@@ -162,14 +166,16 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://medium.com/@shamil bin abdussamad tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shamil bin abdussamad tk" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shamilbin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shamilbin" height="30" width="40" /></a>
 </p>
 
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamilbin&show_icons=true&locale=en&layout=compact" alt="shamilbin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamilbin&show_icons=true&locale=en" alt="shamilbin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamilbin&" alt="shamilbin" /></p>
+
+-->
