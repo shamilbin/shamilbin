@@ -120,11 +120,15 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamilbin&layout=compact&langs_count=8&theme=radical" />
      
   </a>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamilbin&" alt="shamilbin" /></p>
   
    
 </p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=shamilbin&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
 
 
 
