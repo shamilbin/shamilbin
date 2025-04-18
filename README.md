@@ -146,7 +146,7 @@
 
    </p>
    
-
+<!--
    
 <br />
 
@@ -159,15 +159,15 @@
 <p align="center">Made with ❤️ in India</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
+-->
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 
-
-
+<!--
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -175,7 +175,7 @@
 <a href="https://www.leetcode.com/shamilbin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shamilbin" height="30" width="40" /></a>
 </p>
 
-<!--
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamilbin&show_icons=true&locale=en&layout=compact" alt="shamilbin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamilbin&show_icons=true&locale=en" alt="shamilbin" /></p>
