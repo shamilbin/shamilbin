@@ -69,6 +69,8 @@
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React" title="React" height="25" />](#)
 [<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js" title="Node.js" height="25" />](#)
 [<img src="https://img.shields.io/badge/Express.js-282C34?logo=express&logoColor=FFFFFF" alt="Express.js" title="Express.js" height="25" />](#)
+[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB" title="MongoDB" height="25" />](#)
+[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" title="Tailwind CSS" height="25" />](#)
 [<img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=61DAFB" alt="React Native" title="React Native" height="25" />](#)
 [<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" title="HTML5" height="25" />](#)
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3" title="CSS3" height="25" />](#)
@@ -89,8 +91,7 @@
 
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL" title="GraphQL" height="25" />](#)
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js" title="Next.js" height="25" />](#)
-[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB" title="MongoDB" height="25" />](#)
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" title="Tailwind CSS" height="25" />](#)
+
 [<img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx&logoColor=009639" alt="Nginx" title="Nginx" height="25" />](#)
 [<img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws&logoColor=FF9900" alt="AWS" title="AWS" height="25" />](#)
 
