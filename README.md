@@ -4,7 +4,7 @@
    
 
 </div >
-
+<!--
 <p align='center'>
    <a href="https://www.linkedin.com/in/shamilbin/"><img height="5" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://x.com/Shamil_bin_"><img height="5" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
@@ -13,7 +13,7 @@
  <a href="https://www.coffee.com/hemant"><img height="5" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
  </p>
 
-
+-->
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Shamil Bin Abdussamad TK | 💻 Full Stack Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
