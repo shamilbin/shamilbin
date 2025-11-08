@@ -36,7 +36,7 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3> I'm 23 years old Full-Stack developer from India.</h3>
+  <h3> I'm 24 years old Full-Stack developer from India.</h3>
 </p>
 
 
@@ -51,7 +51,7 @@
 
 - 🌱 I’m currently learning **JavaScript , Node.JS**
 
-- 📝 I regularly write articles on [https://medium.com/@shamiltk029](https://medium.com/@shamiltk029)
+- 📝 Check Out my  [Portfolio](https://www.shamilbin.com/)
 
 - 💬 Ask me about **Full Stack Development**
 
@@ -160,10 +160,12 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+
 -->
+
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
-
+(https://streak-stats.demolab.com/?user=shamilbin&theme=tokyonight)](https://github.com/shamilbin)
 
 <!--
 <h3 align="left">Connect with me:</h3>
