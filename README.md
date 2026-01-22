@@ -1,184 +1,145 @@
 <div align="center">
-   <h1>Hi there, I'm    Shamil Bin Abdussamad TK  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
-   
 
-</div >
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shamil%20Bin%20TK&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20Specialist&descAlignY=51&descAlign=50"/>
 
-<p align='center'>
-   <!--
-   <a href="https://www.linkedin.com/in/shamilbin/"><img height="5" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://x.com/Shamil_bin_"><img height="5" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/hemant"><img height="5" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/trinnwin"><img height="5" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Applications;Code+%2B+Coffee+%3D+Magic!)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shamilbin.com-FF5722?style=for-the-badge)](https://www.shamilbin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shamilbin/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/Shamil_bin_)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:shamiltk029@gmail.com)
 
- <a href="https://www.coffee.com/hemant"><img height="5" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
- </p>
--->
+![Profile Views](https://komarev.com/ghpvc/?username=shamilbin&color=blueviolet&style=for-the-badge)
 
-<div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Shamil Bin Abdussamad TK | 💻 Full Stack Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+### 👨‍💻 About Me
 
-<p align="center">
+```javascript
+const shamil = {
+  age: 24,
+  location: "India 🇮🇳",
+  role: "Full Stack Developer",
+  passion: "Turning caffeine into code",
+  currentlyLearning: ["Node.js", "JavaScript Magic"],
+  philosophy: "Clean code isn't written, it's refactored"
+};
+```
 
+Hey there! I'm a **24-year-old developer** from India who loves building things that live on the internet. Whether it's a sleek web app or a robust API, I'm all about creating solutions that are both **beautiful and functional**. 
 
- </p>
- 
- <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
-  </h5>
- 
- 
-<br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
-<p align="center">
-  <h3> I'm 24 years old Full-Stack developer from India.</h3>
-</p>
+When I'm not debugging (let's be honest, that's most of the time 😄), you'll find me exploring new technologies, contributing to open source, or brewing the perfect cup of coffee. I believe in **writing code that speaks for itself** and building applications that make a difference.
 
+💡 Open to collaborating on exciting projects  
+🚀 Always learning, always growing
 
-
-
-
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
-
-- 🌱 I’m currently learning **JavaScript , Node.JS**
-
-- 📝 Check Out my  [Portfolio](https://www.shamilbin.com/)
-
-- 💬 Ask me about **Full Stack Development**
-
-- 📫 How to reach me **shamiltk029@gmail.com**
-
-
-## 🛠 Technologies & Tools I Use
-
-
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
- 
-
-### **Currently Working With** 🔧:
-
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />](#)
-[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React" title="React" height="25" />](#)
-[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js" title="Node.js" height="25" />](#)
-[<img src="https://img.shields.io/badge/Express.js-282C34?logo=express&logoColor=FFFFFF" alt="Express.js" title="Express.js" height="25" />](#)
-[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB" title="MongoDB" height="25" />](#)
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" title="Tailwind CSS" height="25" />](#)
-[<img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=61DAFB" alt="React Native" title="React Native" height="25" />](#)
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" title="HTML5" height="25" />](#)
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3" title="CSS3" height="25" />](#)
-[<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git" title="Git" height="25" />](#)
-[<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux" title="Linux" height="25" />](#)
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="VS Code" title="VS Code" height="25" />](#)
-
-</p>
-
-### **Learning & Improving** 📚:
-
-[<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase" title="Firebase" height="25" />](#)
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript" title="TypeScript" height="25" />](#)
-[<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux" title="Redux" height="25" />](#)
-[<img src="https://img.shields.io/badge/Styled%20Components-282C34?logo=styled-components&logoColor=DB7093" alt="Styled Components" title="Styled Components" height="25" />](#)
-
-### **Want to Learn Next** 🔮:
-
-[<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL" title="GraphQL" height="25" />](#)
-[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js" title="Next.js" height="25" />](#)
-
-[<img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx&logoColor=009639" alt="Nginx" title="Nginx" height="25" />](#)
-[<img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws&logoColor=FF9900" alt="AWS" title="AWS" height="25" />](#)
-
-<!--
-### - Blogs 🌱
--->
-<!--
-<p align="center">
-  <a href="https://dev.to/hemant">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-  </a>
-</p>
--->-
-
-<h2 align="left">Profile Views</h2>
-<img src="https://profile-counter.glitch.me/shamilbin/count.svg" />
-<!--
----
+<br clear="right"/>
 
 ---
 
-### 📊 GitHub Stats  
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/shamilbin">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shamilbin&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamilbin&layout=compact&langs_count=8&theme=radical" />
-     
-  </a>
-  
-   
-</p>
+## 🛠️ Tech Arsenal
 
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,nextjs,html,css,tailwind,git,vscode,linux,firebase,python,redux&perline=7" />
 
+### Currently Learning
+<img src="https://skillicons.dev/icons?i=typescript,graphql" />
 
+### On My Radar
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx" />
 
+</div>
 
- ### <h1><b>What I Do</b></h1>
+---
 
+<div align="center">
 
-<br />
+## 📊 GitHub Stats
 
-<p align="center">
-   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN6b2JhYmh2NTBpb3c4ZTZzd3F1Z3cyZ2VjMDBlNXgyM3F1N2pwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shamilbin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=shamilbin&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" />
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shamilbin&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=true" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=shamilbin&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" />
 
-   </p>
-   -->
-<!--
-   
-<br />
+</div>
 
-<h2 align="center">🤝 Support</h2>
+---
 
-<p align="center">🎀 Contributions (GitHub Flow), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+<div align="center">
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
-<p align="center">Made with ❤️ in India</p>
+## 🎯 What I Do
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+### 🎨 Frontend
+```javascript
+const frontend = {
+  frameworks: ["React", "Next.js"],
+  styling: ["Tailwind", "Styled Components"],
+  stateManagement: ["Redux", "Context API"]
+}
+```
 
--->
+</td>
+<td width="50%">
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+### ⚙️ Backend
+```javascript
+const backend = {
+  runtime: "Node.js",
+  framework: "Express.js",
+  database: ["MongoDB", "Firebase", "SQL"],
+  apis: ["REST", "GraphQL*"]
+}
+```
 
-(https://streak-stats.demolab.com/?user=shamilbin&theme=tokyonight)](https://github.com/shamilbin)
+</td>
+</tr>
+</table>
 
-<!--
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://medium.com/@shamil bin abdussamad tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shamil bin abdussamad tk" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shamilbin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shamilbin" height="30" width="40" /></a>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamilbin&show_icons=true&locale=en&layout=compact" alt="shamilbin" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamilbin&show_icons=true&locale=en" alt="shamilbin" /></p>
-  -->
+<div align="center">
 
+## 💼 Featured Work
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=shamilbin&repo=flask-python&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/shamilbin)
 
+*More amazing projects coming soon!* 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Dev Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🐍 My Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shamilbin/shamilbin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shamilbin/shamilbin/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shamilbin/shamilbin/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+**⚡ Stay Awesome! ⚡** | Made with ❤️ in India
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shamilbin)
+
+</div>
